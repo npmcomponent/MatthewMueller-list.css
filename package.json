@@ -1,0 +1,9 @@
+{
+  "name": "matthewmueller-list.css",
+  "description": "flexible CSS structure for lists, forms, etc",
+  "version": "0.0.1",
+  "styles": [
+    "list.css"
+  ],
+  "dependencies": {}
+}
